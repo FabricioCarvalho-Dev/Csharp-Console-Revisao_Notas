@@ -1,0 +1,15 @@
+C:\Code.DotNet\CursoC#\exemp2\Revisao\bin\Debug\net6.0\Revisao.exe
+C:\Code.DotNet\CursoC#\exemp2\Revisao\bin\Debug\net6.0\Revisao.deps.json
+C:\Code.DotNet\CursoC#\exemp2\Revisao\bin\Debug\net6.0\Revisao.runtimeconfig.json
+C:\Code.DotNet\CursoC#\exemp2\Revisao\bin\Debug\net6.0\Revisao.dll
+C:\Code.DotNet\CursoC#\exemp2\Revisao\bin\Debug\net6.0\Revisao.pdb
+C:\Code.DotNet\CursoC#\exemp2\Revisao\obj\Debug\net6.0\Revisao.csproj.AssemblyReference.cache
+C:\Code.DotNet\CursoC#\exemp2\Revisao\obj\Debug\net6.0\Revisao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code.DotNet\CursoC#\exemp2\Revisao\obj\Debug\net6.0\Revisao.AssemblyInfoInputs.cache
+C:\Code.DotNet\CursoC#\exemp2\Revisao\obj\Debug\net6.0\Revisao.AssemblyInfo.cs
+C:\Code.DotNet\CursoC#\exemp2\Revisao\obj\Debug\net6.0\Revisao.csproj.CoreCompileInputs.cache
+C:\Code.DotNet\CursoC#\exemp2\Revisao\obj\Debug\net6.0\Revisao.dll
+C:\Code.DotNet\CursoC#\exemp2\Revisao\obj\Debug\net6.0\refint\Revisao.dll
+C:\Code.DotNet\CursoC#\exemp2\Revisao\obj\Debug\net6.0\Revisao.pdb
+C:\Code.DotNet\CursoC#\exemp2\Revisao\obj\Debug\net6.0\Revisao.genruntimeconfig.cache
+C:\Code.DotNet\CursoC#\exemp2\Revisao\obj\Debug\net6.0\ref\Revisao.dll
